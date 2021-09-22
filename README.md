@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I am inspired my best friend.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Anshul21-coder)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Anshul21-coder)
+
