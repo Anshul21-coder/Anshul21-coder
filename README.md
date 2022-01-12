@@ -15,7 +15,22 @@
 
 <br>
 
+<font face="Story book">
 
+  <h2>My Laptop Specs: </h2>
+
+</font>
+
+<p>
+  Hp Laptop
+  BIOS Mode: Legacy;
+  RAM: 4 GB;
+  Storage: 512 GB HDD;
+  Processor: Intel i3 2nd Generation;
+  Graphics Card: ATI Radeon;
+  Graphics: Intel HD Graphics 3000;
+  Operating System: Arcolinux v22.01.10;
+</p>
 
 
 
