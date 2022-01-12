@@ -22,14 +22,14 @@
 </font>
 
 <p>
-  Hp Laptop
-  BIOS Mode: Legacy;
-  RAM: 4 GB;
-  Storage: 512 GB HDD;
-  Processor: Intel i3 2nd Generation;
-  Graphics Card: ATI Radeon;
-  Graphics: Intel HD Graphics 3000;
-  Operating System: Arcolinux v22.01.10;
+  Hp Laptop <br>
+  BIOS Mode: Legacy;<br>
+  RAM: 4 GB;<br>
+  Storage: 512 GB HDD;<br>
+  Processor: Intel i3 2nd Generation;<br>
+  Graphics Card: ATI Radeon;<br>
+  Graphics: Intel HD Graphics 3000;<br>
+  Operating System: Arcolinux v22.01.10;<br>
 </p>
 
 
